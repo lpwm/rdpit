@@ -1,12 +1,13 @@
 # RdpIt — a minimal Windows RDP client
 
+**Screenshots:**
 <p>
   <img src="assets/screenshot-1.webp" alt="Screenshot 1" width="32%" />
   <img src="assets/screenshot-2.webp" alt="Screenshot 2" width="32%" />
   <img src="assets/screenshot-3.webp" alt="Screenshot 3" width="32%" />
 </p>
 
-<img src="assets/rdpit.ico" alt="RdpIt icon" width="48" height="48" align="left" />
+----
 
 A small WinForms Remote Desktop client that wraps the built-in Microsoft RDP
 ActiveX control (`mstscax.dll`). It provides:
